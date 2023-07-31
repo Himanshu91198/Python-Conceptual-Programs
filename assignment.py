@@ -1,0 +1,32 @@
+#assignment operator
+#equal to
+name = "Himanshu"
+print("Equal to = " , "Himanshu")
+#+= operator
+a = 10
+a =  a + 10
+print("+= opertor :", a)
+#-= operator
+x = 20
+x = x - 10
+print ("-= operator:", x)
+#*= operator
+y = 10
+y = y * 5
+print ("*= operator:", y)
+#/= operator
+z = 50
+z = z / 10
+print ("/= operator:", z)
+#**= operator
+b = 8
+b = b ** 2
+print("**= operator:", b)
+#//= operator
+c = 20
+c = 20 // 6
+print ("//= operator:", c)
+#%= operator
+d = 25
+d = d % 500
+print ("%= operaor:", d)

@@ -1,0 +1,6 @@
+no_games = int(input("Enter the no. of games played in the tournament = "))
+games_won = int(input("Enter the no. of games won in the tournament = "))
+games_loss = int(input("Enter the no. of games lost in the tournament = "))
+tie = no_games - (games_won + games_loss)
+total_points = (games_won * 4) + (tie * 2)
+print(f"No. of ties in the tournament are {tie} and total point won are {total_points}")

@@ -1,0 +1,4 @@
+Anirudh -> 89
+Sagar -> 99
+Elon -> 41
+xyz -> 57
